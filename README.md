@@ -1,2 +1,3 @@
 # delta-demo
-This is a Demo repo for git 
+This is a Demo repo for git.
+  
